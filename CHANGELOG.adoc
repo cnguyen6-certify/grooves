@@ -9,6 +9,8 @@
   This allows syntax highlighting for Kotlin code.
 * Use `svg-builder` and static type diagramming.
 * Vastly improved Null checking using jetbrains annotations.
+* Upgrade gradle to 4.5.1.
+  This requires temporarily disabling tests for grails examples.
 
 == 0.4.0
 * Make position and timestamp non nullable in Events
